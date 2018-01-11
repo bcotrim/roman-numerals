@@ -1,0 +1,28 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "Roman Numerals - JS Library",
+  "repository": "git@github.com:bcotrim/roman-numerals.git",
+  "author": "Bernardo Cotrim <bmmcotrim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jasmine": "^2.9.1",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "jasmine": "^2.8.0"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "lint": "eslint ./ .eslintrc"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
