@@ -1,10 +1,11 @@
 {
-  "name": "roman-numerals",
+  "name": "js-roman-numerals",
   "version": "1.0.0",
   "description": "Roman Numerals - JS Library",
   "repository": "git@github.com:bcotrim/roman-numerals.git",
   "author": "Bernardo Cotrim <bmmcotrim@gmail.com>",
   "license": "MIT",
+  "main": "src/romanNumeral.js",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
