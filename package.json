@@ -5,7 +5,7 @@
   "repository": "git@github.com:bcotrim/roman-numerals.git",
   "author": "Bernardo Cotrim <bmmcotrim@gmail.com>",
   "license": "MIT",
-  "main": "./dist/js-roman-numerls.js",
+  "main": "./dist/js-roman-numerals.js",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-loader": "^7.1.2",
