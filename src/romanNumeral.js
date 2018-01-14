@@ -1,6 +1,6 @@
 import { decimalToRoman, romanToDecimal } from './utils/converter';
 
-export default class RomanNumber {
+module.exports = class RomanNumber {
   constructor(value) {
     if (!value && value !== 0) {
       throw new TypeError('value required');
@@ -20,4 +20,4 @@ export default class RomanNumber {
   toString() {
     return this.roman;
   }
-}
+};
