@@ -1,6 +1,6 @@
 {
   "name": "js-roman-numerals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Roman Numerals - JS Library",
   "repository": "git@github.com:bcotrim/roman-numerals.git",
   "author": "Bernardo Cotrim <bmmcotrim@gmail.com>",
